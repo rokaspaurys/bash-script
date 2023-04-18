@@ -1,0 +1,9 @@
+#Aprasymas
+Programa skirta perziureti naudotojo sporto tvarkarasti. 
+Tvarkarastyje yra parasytos treniruociu datos ir savaites dienos bei pratimu sarasas su pakartojimais. 
+Naudotojas programos menu gali pasirinkti viena is 5 operaciju: 
+1) Perziureti visa tvarkarasti; 
+2) Perziureti visus pratimus; 
+3) Perziureti savaites dienas, kai vyksta treniruotes; 
+4) Naudojant paieska, rasti kurio nors pratimo suvestine; 
+5) Baigus darba, isjungti.
